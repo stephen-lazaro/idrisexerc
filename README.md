@@ -1,0 +1,3 @@
+# idrisexerc
+
+Wooo idris
